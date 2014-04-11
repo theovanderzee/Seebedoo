@@ -1,0 +1,8 @@
+useful instal links
+installing ez_Setup https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+
+everything else http://www.nltk.org/install.html
+
+beautiful soup4 
+http://www.crummy.com/software/BeautifulSoup/
